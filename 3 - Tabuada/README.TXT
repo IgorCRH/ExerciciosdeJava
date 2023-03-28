@@ -1,3 +1,3 @@
 ----------------------------------------------------------------------------
-Programa em Javascript que calcula a tabuada de um número.
+Programa em Java que calcula a tabuada de um número.
 ----------------------------------------------------------------------------
