@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class fatorial
 {
     
-    public void naonulo (int num, int fat){
+    public void naonulo (int fat){
     System.out.printf("O fatorial do numero eh %d",fat);
     }
     
@@ -27,7 +27,7 @@ public class fatorial
     for (fat = 1; num > 1; num = num-1){
     fat = fat*num;
     }    
-    objNaoNulo.naonulo(num, fat);
+    objNaoNulo.naonulo(fat);
     }  
 }
 }
