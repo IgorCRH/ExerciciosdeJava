@@ -1,7 +1,7 @@
 public class Funcionarios {
-private String nome, cargo; // Criando os atributos do funcionário
-private static int matricula; // Pelo príncipio do encapsulamento, tem de ser private
-private double salario; // Para poder exibí-lo mais pra frente, temos que torná-lo público
+private String nome, cargo; // Criando os atributos do funcionário.
+private static int matricula; // Pelo príncipio do encapsulamento, tem de ser private.
+private double salario; // Para poder exibí-lo mais pra frente, temos que torná-lo público.
 
 public String getNome (){ // Área para introduzir os GETs para torná-lo público
 return nome;    
@@ -18,7 +18,9 @@ return matricula;
 public double getSalario (){
 return salario;    
 }
-// Área dos métodos SET para construir as variáveis do GET
+  
+// Área dos métodos SET para construir as variáveis do GET. O this é um objeto para se referir a variável da classe Funcionarios, e diferenciá-la da do argumento do
+// método SET.  
 public void setNome (String nome) 
 {
 this.nome = nome;   
