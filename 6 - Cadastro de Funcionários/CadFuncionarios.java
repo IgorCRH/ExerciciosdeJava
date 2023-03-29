@@ -7,7 +7,8 @@ Scanner leitura = new Scanner (System.in); // Objeto da classe Scanner para leit
 String nome, cargo;
 int matricula, opc;
 double salario;
-Funcionarios cadastro = new Funcionarios (); // Cria o objeto da classe Funcionarios que será necessário para exibir as informações.
+Funcionarios cadastro = new Funcionarios (); // Cria o objeto da classe Funcionarios que será necessário para exibir as informações, visto que é por esta classe que
+// os atributos do funcionário são criados e iniciados.            
 
 do {
 System.out.println("Entre com o nome do funcionario: ");
