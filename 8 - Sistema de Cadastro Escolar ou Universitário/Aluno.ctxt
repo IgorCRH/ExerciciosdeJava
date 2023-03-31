@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Aluno
+comment1.params=
+comment1.target=int\ getMatricula()
+comment2.params=
+comment2.target=double\ getCR()
+comment3.params=matricula
+comment3.target=void\ setMatricula(int)
+comment4.params=cr
+comment4.target=void\ setCR(double)
+comment5.params=nome\ email\ cpf\ data
+comment5.target=Aluno(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment6.params=
+comment6.target=void\ cadaluno()
+comment7.params=natt
+comment7.target=void\ atualizaaluno(java.lang.String)
+comment8.params=nanul
+comment8.target=void\ anulamatricula(java.lang.String)
+comment9.params=
+comment9.target=void\ listaralunos()
+numComments=10

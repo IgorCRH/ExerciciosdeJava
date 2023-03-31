@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment2.params=
+comment2.target=java.lang.String\ getEmail()
+comment3.params=
+comment3.target=int\ getCpf()
+comment4.params=
+comment4.target=java.lang.String\ getData()
+comment5.params=nome\ email\ cpf\ data
+comment5.target=Pessoa(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+numComments=6
