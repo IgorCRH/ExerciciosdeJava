@@ -1,12 +1,6 @@
 ----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
+Este é um programa em Java que administra o sistema de cadastro de uma escola ou universidade, com as funções de cadastrar e listar os alunos/funcionários, bem como anular matrícula de alunos e reajustar salários de funcionários.
 
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+Este programa trabalha com o sistema de heranças entre as classes:
+![alt text](https://github.com/IgorCRH/ExerciciosdeJava/blob/main/8%20-%20Sistema%20de%20Cadastro%20Escolar%20ou%20Universit%C3%A1rio/diagrama.png)
+----------------------------------------------------------------------------
