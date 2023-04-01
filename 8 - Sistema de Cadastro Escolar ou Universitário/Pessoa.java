@@ -1,6 +1,3 @@
-import java.util.Date;
-import java.util.Scanner;
-
 public class Pessoa
 {
 protected String nome, email, data; // protected para o acesso ser possível em outras classes
