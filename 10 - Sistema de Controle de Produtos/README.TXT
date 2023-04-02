@@ -1,12 +1,3 @@
 ----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
-
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+Programa em Java de administração de um sistema de produtos comprados e fabricados, aonde se calcula o custo de compra do primeiro, o de fabricação do segundo (somando o preço dos ingredientes), com retorno do valor da compra.
+----------------------------------------------------------------------------
