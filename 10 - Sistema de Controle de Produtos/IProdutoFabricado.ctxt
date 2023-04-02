@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IProdutoFabricado
+comment1.params=
+comment1.target=int\ getNumeroIngredientes()
+comment2.params=numero
+comment2.target=lProduto\ getIngrediente(int)
+numComments=3

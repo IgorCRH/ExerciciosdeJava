@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ProdFabricado
+comment1.params=nome\ Ingrediente
+comment1.target=ProdFabricado(java.lang.String,\ java.util.ArrayList)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=int\ getNumeroIngredientes()
+comment4.params=numero
+comment4.target=lProduto\ getIngrediente(int)
+comment5.params=
+comment5.target=float\ getCusto()
+comment6.params=ingrediente
+comment6.target=void\ adicionarIngrediente(ProdComprados)
+numComments=7

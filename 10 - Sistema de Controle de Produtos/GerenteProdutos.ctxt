@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GerenteProdutos
+comment1.params=nomeProduto
+comment1.target=java.lang.String[]\ getIngredientes(java.lang.String)
+comment2.params=nomeProduto
+comment2.target=float\ getValorCompra(java.lang.String)
+comment3.params=produto
+comment3.target=lProduto\ reduzirCusto(lProduto)
+numComments=4
