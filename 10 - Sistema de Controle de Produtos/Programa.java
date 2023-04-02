@@ -5,19 +5,19 @@ public class Programa
 {
 public static void main(String[] args) {
 ArrayList<lProduto> Ingredientes = new ArrayList<>();  
-lProduto produtoComprado = new ProdComprados("produto1", 10.0f);
+lProduto produtoComprado = new ProdComprados("produto1", 10.0f); // Objetos cast usados nas chamadas da main
 GerenteProdutos g = new GerenteProdutos();
 Scanner leitura = new Scanner (System.in);
 
 g.reduzirCusto(produtoComprado);
 
-lProduto produtoFabricado = new ProdFabricado("produto2",Ingredientes);
-ProdFabricado prodfabricado = new ProdFabricado ("produto2",Ingredientes);
+lProduto produtoFabricado = new ProdFabricado("produto2",Ingredientes); // Objetos cast usados nas chamadas da main
+ProdFabricado prodfabricado = new ProdFabricado ("produto2",Ingredientes); // Objetos cast usados nas chamadas da main
 
 System.out.println("Digite o nome e o custo de cada ingrediente (para sair digite 'fim'):");
 String nome;
 float custo;
-while (true) {
+while (true) { // Preenche os ingredientes
 System.out.print("Nome: ");
 nome = leitura.nextLine();
 if (nome.equals("fim")) {
@@ -29,7 +29,7 @@ leitura.nextLine();
 ProdComprados ingrediente = new ProdComprados(nome, custo);
 Ingredientes.add(ingrediente);
 }
-
+// Área de criação e listagem dos produtos
 String[] ingredientes = GerenteProdutos.getIngredientes("produto2");
 if (ingredientes != null) {
 for (String ingredienteNome : ingredientes) {
