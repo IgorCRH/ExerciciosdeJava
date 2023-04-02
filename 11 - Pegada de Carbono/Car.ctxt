@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=milhas\ mpg\ cilindradasent
+comment1.target=Car(double,\ double,\ float)
+comment2.params=cilindradasent
+comment2.target=void\ setCilindrada(float)
+comment3.params=milhas
+comment3.target=void\ setMilhas(double)
+comment4.params=mpg
+comment4.target=void\ setMiporGalao(double)
+comment5.params=
+comment5.target=double\ getMilhas()
+comment6.params=
+comment6.target=double\ getMiPorGalao()
+comment7.params=
+comment7.target=float\ getCilindrada()
+comment8.params=
+comment8.target=double\ getCarbonFootprint()
+numComments=9
