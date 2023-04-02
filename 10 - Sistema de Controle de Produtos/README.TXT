@@ -8,6 +8,7 @@ public interface IProduto {
  public String getNome();
  public float getCusto();
 }
+
 O método getNome retorna o nome do produto. Se o objeto for um produto comprado, o método
 getCusto retorna o valor de compra do produto (este valor representa seu custo).
 Produtos fabricados são feitos a partir de uma combinação de ingredientes. Para fins de simplificação
@@ -17,6 +18,7 @@ public interface IProdutoFabricado extends IProduto {
  int getNumeroIngredientes();
  IProduto getIngrediente(int numero);
 }
+
 Para fins de simplificação, o custo de um produto fabricado é apenas a soma dos custos de seus
 ingredientes. Portanto, se o objeto for produto fabricado, seu método getCusto retorna esta soma.
 Objetos de produtos comprados não implementam a interface IProdutoFabricado.
