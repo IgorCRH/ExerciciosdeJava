@@ -1,11 +1,9 @@
-import java.util.Scanner;
 // Classe Bicycle implementa a interface CarbonFootprint
 public class Bicycle implements CarbonFootprint
 {
 // Atributos próprios da classe Bicycle utilizados pro método CarbonFootprint    
 protected double mianual;
 protected float calorias;
-Scanner leitura = new Scanner (System.in);
 
 // Construtor da classe Bicycle: milhas e calorias são passadas por argumento
 // através da main
