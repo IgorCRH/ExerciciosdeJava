@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DVD
+comment1.params=
+comment1.target=DVD()
+comment2.params=nome\ codigo\ preco\ nfaixas2
+comment2.target=DVD(java.lang.String,\ int,\ double,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getTipo()
+comment4.params=
+comment4.target=java.lang.String\ getInfo()
+comment5.params=nfaixas2
+comment5.target=void\ setNumFaixas(int)
+numComments=6
