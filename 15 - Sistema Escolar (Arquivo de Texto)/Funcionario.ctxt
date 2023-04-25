@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment1.params=
+comment1.target=double\ getSalario()
+comment10.params=
+comment10.target=void\ listarfunc()
+comment11.params=valor
+comment11.target=void\ reajuste(double)
+comment2.params=
+comment2.target=java.lang.String\ getCargo()
+comment3.params=salario
+comment3.target=void\ setSalario(double)
+comment4.params=dep
+comment4.target=void\ setDep(java.lang.String)
+comment5.params=cargo
+comment5.target=void\ setCargo(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDepartamento()
+comment7.params=nome\ email\ cpf\ data
+comment7.target=Funcionario(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment8.params=
+comment8.target=void\ cadfunc()
+comment9.params=natt
+comment9.target=void\ atualizafunc(java.lang.String)
+numComments=12
