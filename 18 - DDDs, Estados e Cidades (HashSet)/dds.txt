@@ -1,0 +1,67 @@
+ 11,São Paulo,São Paulo
+ 12,São José dos Campos,São Paulo
+ 13,Santos,São Paulo
+ 14,Bauru,São Paulo
+ 15,Sorocaba,São Paulo
+ 16,Ribeirão Preto,São Paulo
+ 17,São José do Rio Preto,São Paulo
+ 18,Presidente Prudente,São Paulo
+ 19,Campinas,São Paulo
+ 21,Rio de Janeiro,Rio de Janeiro
+ 22,Campos dos Goytacazes,Rio de Janeiro
+ 24,Volta Redonda,Rio de Janeiro
+ 27,Vitória / Vila Velha,Espírito Santo
+ 28,Cachoeiro de Itapemirim,Espírito Santo
+ 31,Belo Horizonte,Minas Gerais
+ 32,Juiz de Fora,Minas Gerais
+ 33,Governador Valadares,Minas Gerais
+ 34,Uberlândia,Minas Gerais
+ 35,Poços de Caldas,Minas Gerais
+ 37,Divinópolis,Minas Gerais
+ 38,Montes Claros,Minas Gerais
+ 41,Curitiba,Paraná
+ 42,Ponta Grossa,Paraná
+ 43,Londrina,Paraná
+ 44,Maringá,Paraná
+ 45,Foz do Iguaçú,Paraná
+ 46,Pato Branco / Francisco Beltrão,Paraná
+ 47,Joinville,Santa Catarina
+ 48,Florianópolis,Santa Catarina
+ 49,Chapecó,Santa Catarina
+ 51,Porto Alegre,Rio Grande do Sul
+ 53,Pelotas,Rio Grande do Sul
+ 54,Caxias do Sul,Rio Grande do Sul
+ 55,Santa Maria,Rio Grande do Sul
+ 61,Brasília,Distrito Federal
+ 62,Goiânia,Goiás
+ 63,Palmas,Tocantins
+ 64,Rio Verde,Goiás
+ 65,Cuiabá,Mato Grosso
+ 66,Rondonópolis,Mato Grosso
+ 67,Campo Grande,Mato Grosso do Sul
+ 68,Rio Branco,Acre
+ 69,Porto Velho,Roraima
+ 71,Salvador,Bahia
+ 73,Ilhéus,Bahia
+ 74,Juazeiro,Bahia
+ 75,Feira de Santana,Bahia
+ 77,Barreiras,Bahia
+ 79,Aracaju,Sergipe
+ 81,Recife,Pernambuco
+ 82,Maceió,Alagoas
+ 83,João Pessoa,Paraíba
+ 84,Natal,Rio Grande do Norte
+ 85,Fortaleza,Ceará
+ 86,Teresina,Piauí
+ 87,Petrolina,Pernambuco
+ 88,Juazeiro do Norte,Ceará
+ 89,Picos,Piauí
+ 91,Belém,Pará
+ 92,Manaus,Amazonas
+ 93,Santarém,Pará
+ 94,Marabá,Pará
+ 95,Boa Vista,Roraima
+ 96,Macapá,Amapá
+ 97,Coari,Amazonas
+ 98,São Luís,Maranhão
+ 99,Imperatriz,Maranhão
