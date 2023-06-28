@@ -6,4 +6,5 @@ Programas 6 a 7 - Método GET/SET
 Programas 8 a 9 - Herança
 Programas 10 a 12 - Interfaces e Override
 Programas 13 e 14 - Polimorfismo
-Programas 15 a ??? - Arquivos de Texto e Binário
+Programa 15 - Arquivo de Texto
+Programas 16 a ??? - Hashset, ThreeSet e LinkedHashSet
