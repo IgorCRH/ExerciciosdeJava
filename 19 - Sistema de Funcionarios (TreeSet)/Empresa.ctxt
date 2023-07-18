@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Empresa()
+comment1.params=funcionario
+comment1.target=void\ inserirFuncionario(Funcionario)
+comment2.params=
+comment2.target=Funcionario\ funcionarioMaisNovo()
+comment3.params=
+comment3.target=Funcionario\ funcionarioMaisVelho()
+comment4.params=salario
+comment4.target=int\ funcionariosComSalarioMaiorQue(double)
+comment5.params=salario
+comment5.target=int\ funcionariosComSalarioMenorQue(double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
