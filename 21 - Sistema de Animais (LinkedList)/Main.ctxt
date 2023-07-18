@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=scanner\ listaAnimais
+comment1.target=void\ inserirAnimal(java.util.Scanner,\ java.util.List)
+comment2.params=scanner\ listaAnimais
+comment2.target=void\ removerAnimalPorIndice(java.util.Scanner,\ java.util.List)
+comment3.params=listaAnimais
+comment3.target=void\ quantidadeAnimais(java.util.List)
+comment4.params=scanner\ listaAnimais
+comment4.target=void\ indicePrimeiraOcorrenciaDuplicado(java.util.Scanner,\ java.util.List)
+comment5.params=scanner\ listaAnimais
+comment5.target=void\ indiceUltimaOcorrenciaDuplicado(java.util.Scanner,\ java.util.List)
+comment6.params=scanner\ listaAnimais
+comment6.target=void\ criarSublista(java.util.Scanner,\ java.util.List)
+comment7.params=listaAnimais
+comment7.target=void\ listarAnimais(java.util.List)
+numComments=8
