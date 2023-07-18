@@ -13,7 +13,6 @@ public class ListaContatos {
 
             if (novoContatoNome.equalsIgnoreCase("sair")) {
                 continuarAdicionando = false;
-                break;
             } else {
                 Contato novoContato = new Contato(novoContatoNome);
                 listaContatos.add(novoContato);
