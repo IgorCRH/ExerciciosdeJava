@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=id\ tempoEspera\ descricao
+comment0.target=Processo(int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=int\ getTempoEspera()
+comment3.params=
+comment3.target=java.lang.String\ getDescricao()
+numComments=4
