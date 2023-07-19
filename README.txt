@@ -10,3 +10,4 @@ Programa 15 - Arquivo de Texto
 Programas 16 a 20 - Hashset e ThreeSet
 Programa 21 e 22 - LinkedList
 Programa 23 - Map, HashMap
+Programa 24 - Queue
