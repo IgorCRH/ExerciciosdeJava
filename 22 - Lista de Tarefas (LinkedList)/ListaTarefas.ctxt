@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=scanner\ listaTarefas
+comment1.target=void\ inserirTarefa(java.util.Scanner,\ java.util.List)
+comment2.params=scanner\ listaTarefas
+comment2.target=void\ removerTarefaPorIndice(java.util.Scanner,\ java.util.List)
+comment3.params=listaTarefas
+comment3.target=void\ quantidadeTarefas(java.util.List)
+comment4.params=scanner\ listaTarefas
+comment4.target=void\ criarSublista(java.util.Scanner,\ java.util.List)
+comment5.params=scanner\ listaTarefas
+comment5.target=void\ marcarTarefaConcluida(java.util.Scanner,\ java.util.List)
+comment6.params=scanner\ listaTarefas
+comment6.target=void\ marcarTarefaNaoConcluida(java.util.Scanner,\ java.util.List)
+comment7.params=listaTarefas
+comment7.target=void\ listarTarefas(java.util.List)
+numComments=8

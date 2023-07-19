@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=id\ descricao
+comment0.target=Tarefa(int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=
+comment2.target=java.lang.String\ getDescricao()
+comment3.params=
+comment3.target=boolean\ isConcluida()
+comment4.params=
+comment4.target=void\ marcarComoConcluida()
+comment5.params=
+comment5.target=void\ marcarComoNaoConcluida()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
