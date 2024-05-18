@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=funcionarios\ vendasMensais
+comment0.target=Main(java.util.List,\ java.util.Map)
+comment1.params=funcionarios\ mes\ ano
+comment1.target=double\ calcularTotalPago(java.util.List,\ int,\ int)
+comment2.params=funcionarios\ mes\ ano
+comment2.target=double\ calcularTotalSalarios(java.util.List,\ int,\ int)
+comment3.params=funcionarios\ mes\ ano
+comment3.target=double\ calcularTotalBeneficios(java.util.List,\ int,\ int)
+comment4.params=funcionarios\ mes\ ano
+comment4.target=Funcionario\ funcionarioComMaiorRecebimento(java.util.List,\ int,\ int)
+comment5.params=funcionarios\ mes\ ano
+comment5.target=java.lang.String\ nomeFuncionarioComMaiorBeneficio(java.util.List,\ int,\ int)
+comment6.params=vendedores\ mes\ ano
+comment6.target=Vendedor\ vendedorComMaisVendas(java.util.List,\ int,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=
+comment8.target=java.util.Map\ criarVendasMensais()
+numComments=9

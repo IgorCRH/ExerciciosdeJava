@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nome\ cargo\ dataContratacao\ salarioBase
+comment0.target=Funcionario(java.lang.String,\ java.lang.String,\ java.time.LocalDate,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getNome()
+comment2.params=mes\ ano
+comment2.target=double\ calcularSalario(int,\ int)
+comment3.params=mes\ ano
+comment3.target=double\ calcularBeneficio(int,\ int)
+numComments=4

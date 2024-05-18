@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nome\ dataContratacao\ vendasMensais
+comment0.target=Vendedor(java.lang.String,\ java.time.LocalDate,\ java.util.Map)
+comment1.params=mes\ ano
+comment1.target=double\ calcularSalario(int,\ int)
+comment2.params=mes\ ano
+comment2.target=double\ calcularBeneficio(int,\ int)
+comment3.params=
+comment3.target=java.util.Map\ getVendasMensais()
+numComments=4
